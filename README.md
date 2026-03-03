@@ -1,7 +1,9 @@
 # Spotify-Requests
 
-This web app uses the Spotify Web API and the AudD Music Recognition API to fetch and display music data, including identifying songs from audio streams. The project focuses on practicing API integration, asynchronous data fetching, and dynamic UI rendering using React.
+Spotify-Requests is a feature playground for me where I plan to keep building and refining new ideas I’d love to see on Spotify.
 
+**Version 1 focuses on building the core API infrastructure and UI foundation**
+This web app uses the Spotify Web API and the AudD Music Recognition API to fetch and display music data, including identifying songs from audio streams. The project focuses on practicing API integration, asynchronous data fetching, and dynamic UI rendering using React.
 
 ## Features
 - Allows users to log in to their Spotify account
@@ -10,7 +12,7 @@ This web app uses the Spotify Web API and the AudD Music Recognition API to fetc
 - Provides music recommendations based on identified or selected songs
 
 ## Video Walkthrough
-- Through this walkthrough, I log in with my Spotify account, see the recent tracks I played, and use the feature to identify a song I'm playing from a seperate device.
+- Through this walkthrough, I log in with my Spotify account, see the recent tracks I played, and use the feature to identify a song I'm playing from a separate device.
 - I included text on the video to show where the icon is!
 <div>
 
