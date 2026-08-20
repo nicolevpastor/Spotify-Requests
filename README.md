@@ -31,11 +31,12 @@ https://github.com/user-attachments/assets/f4e4852e-5eef-4880-9ed9-6a7ba36fd533
 
 
 ## Tech Stack
-- React
+- React Native
 - JavaScript 
 - HTML / CSS
 - Spotify Web API
 - AudD API
+- Expo
 
 
 ## Notes
