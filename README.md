@@ -3,7 +3,7 @@
 Spotify-Requests is a feature playground for me where I plan to keep building and refining new ideas I’d love to see on Spotify.
 
 **Version 1 focuses on building the core API infrastructure and UI foundation**
-This web app uses the Spotify Web API and the AudD Music Recognition API to fetch and display music data, including identifying songs from audio streams. The project focuses on practicing API integration, asynchronous data fetching, and dynamic UI rendering using React.
+This React Native mobile application uses the Spotify Web API and AudD Music Recognition API to fetch and display music data, including identifying songs from audio. The project focuses on API integration, asynchronous data fetching, state management, and dynamic UI rendering using React Native.
 
 ## Features
 - Allows users to log in to their Spotify account
@@ -37,6 +37,7 @@ https://github.com/user-attachments/assets/f4e4852e-5eef-4880-9ed9-6a7ba36fd533
 - Spotify Web API
 - AudD API
 - Expo
+- OAuth
 
 
 ## Notes
